@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-You can also find me on [![Instagram][1.2]][1][![LinkedIn][2.2]][2].
+You can also find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
