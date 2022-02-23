@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandru Dumitru👋
 
-- 💻 I'm a Computer Science student and a developer.
+- 💻 I'm a Computer Science student.
 - 📁 Currently working as backend developer.
 - 📫 How to reach me: [aaaalexdumitru@gmail.com](aaaalexdumitru@gmail.com)
 <!--
