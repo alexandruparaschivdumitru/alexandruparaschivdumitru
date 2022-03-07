@@ -7,17 +7,19 @@
 
 <!-- Actual text -->
 
-You can also find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2].
+You can also find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Stack overflow][3.2]][3]
 
 <!-- Icons -->
 
-[1.2]: https://img.shields.io/badge/-Instagram-D7008A?style=flat&logo=Instagram&logoColor=white
-[2.2]: https://img.shields.io/badge/-LinkedIn-%230077b5?style=flat&logo=linkedin&logoColor=white
+[1.2]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[3.2]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://instagram.com/alex_dumitru_
 [2]: https://www.linkedin.com/in/alexandru-paraschiv-dumitru/
+[3]: https://stackoverflow.com/users/13338028/alex-dumitru
 <!--
 **alexandruparaschivdumitru/alexandruparaschivdumitru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
