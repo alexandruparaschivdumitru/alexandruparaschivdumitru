@@ -6,8 +6,8 @@
 
 
 <!-- Actual text -->
-
-You can also find me on [![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Stack overflow][3.2]][3]
+You can also find me on:
+[![Instagram][1.2]][1] [![LinkedIn][2.2]][2] [![Stack overflow][3.2]][3]
 
 <!-- Icons -->
 
